@@ -1,0 +1,17 @@
+CONSIDERACIONES:
+==============================================
+
+- Tener Instalado Android Studio
+- Deescargar los componentes del SDK
+
+Crear Proyecto
+=============================================
+
+- **New Project > Empty Views Activity > Asignar Nombre "Formularios" > Lenguaje: Java y Crear**
+
+En el Layout, agregar la siguiente codificación.
+
+https://github.com/jomarbp/Android_IVsemestre/blob/main/activity_main.xml
+
+Listo!, debería mostrar la interfaz gráfica del aplicativo y sus complementos agregados en la carpeta del proyecto creado.
+
